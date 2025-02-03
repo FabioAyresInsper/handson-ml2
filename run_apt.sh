@@ -1,0 +1,17 @@
+#!/bin/bash
+sudo apt install \
+    build-essential \
+    cmake \
+    ffmpeg \
+    git \
+    libboost-all-dev \
+    libjpeg-dev \
+    libpq-dev \
+    libsdl2-dev \
+    sudo \
+    swig \
+    unzip \
+    xorg-dev \
+    xvfb \
+    zip \
+    zlib1g-dev
